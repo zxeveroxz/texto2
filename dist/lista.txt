@@ -1,0 +1,5 @@
+texto que genera el boton de sergio|btn sergio
+texto que genera el boton de juan|btn juan
+texto que genera el boton de pep|btn pepe
+texto que genera el boton de raul|btn raul
+texto que genera el boton de raul|btn raul
